@@ -3,7 +3,7 @@
 # Collections
 
 This package contains JavaScript implementations of common data
-structures with idiomatic iterfaces, including extensions for Array and
+structures with idiomatic interfaces, including extensions for Array and
 Object.
 
 You can use these Node Packaged Modules with Node.js, [Browserify][],
